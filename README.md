@@ -11,3 +11,8 @@ https://www.w3schools.com/python/pandas/ref_df_describe.asp
 
 - Looked up [matplotlib histograms](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html) for help with syntax/bins. Used plt.stairs() to plot histogram:
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
+
+- Utilized class activities to use list(np.ravel()) to convert tuple list to normal list.
+
+- Looked up how to convert date from input to datetime object for app.py. Used [datetime.strptime()](https://www.geeksforgeeks.org/python-datetime-strptime-function/) function to do so:
+https://www.geeksforgeeks.org/python-datetime-strptime-function/
